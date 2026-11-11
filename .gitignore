@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# 虚拟环境
+venv/
+.venv/
+
+# 编辑器
+.vscode/
+.idea/
+
+# 密钥（这个项目从外部路径读 key，但以防以后改成本地文件）
+.env
+key.txt
+key_sf.txt
+*.key
+
+# 数据与产物
+*.db
+*.sqlite3
