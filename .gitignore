@@ -19,3 +19,4 @@ key_sf.txt
 # 数据与产物
 *.db
 *.sqlite3
+logs/
